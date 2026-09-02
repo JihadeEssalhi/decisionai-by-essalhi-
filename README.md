@@ -1,84 +1,84 @@
 # DecisionAI By Essalhi
 
-**L'intelligence au service de la decision**
+**L'intelligence au service de la décision**
 
 ---
 
 **Projet personnel de perfectionnement**
 
-Ce projet a ete developpe en parallele de mon stage de 3eme annee, dans le but d'approfondir mes competences en developpement full-stack, en intelligence artificielle et en deploiement de solutions SaaS. Il represente mon engagement a aller au-dela des exigences academiques pour construire des projets concrets et professionnels.
+Ce projet a été développé en parallèle de mon stage de 3ème année, dans le but d'approfondir mes compétences en développement full-stack, en intelligence artificielle et en déploiement de solutions SaaS. Il représente mon engagement à aller au-delà des exigences académiques pour construire des projets concrets et professionnels.
 
-**Objectif :** Ameliorer ma carriere en maitrisant les technologies les plus demandees sur le marche.
-
----
-
-**Note importante :** Ce projet est encore en cours de developpement. De nouvelles fonctionnalites sont regulierement ajoutees et certaines parties de la plateforme sont encore en amelioration. Je continue a travailler dessus pour offrir une experience complete et professionnelle.
+**Objectif :** Améliorer ma carrière en maîtrisant les technologies les plus demandées sur le marché.
 
 ---
 
-## Presentation du Projet
+**Note importante :** Ce projet est encore en cours de développement. De nouvelles fonctionnalités sont régulièrement ajoutées et certaines parties de la plateforme sont encore en amélioration. Je continue à travailler dessus pour offrir une expérience complète et professionnelle.
+
+---
+
+## Présentation du Projet
 
 ### Contexte
 
-Ce projet est ne de ma volonte de me perfectionner et de renforcer mon portfolio en parallele de mon stage de 3eme annee. Alors que mon stage me permettait de decouvrir le monde professionnel, j'ai souhaite aller plus loin en developpant une solution complete de Business Intelligence, de la conception a la mise en production.
+Ce projet est né de ma volonté de me perfectionner et de renforcer mon portfolio en parallèle de mon stage de 3ème année. Alors que mon stage me permettait de découvrir le monde professionnel, j'ai souhaité aller plus loin en développant une solution complète de Business Intelligence, de la conception à la mise en production.
 
 **Pourquoi ce projet ?**
-- Approfondir mes competences en Next.js et TypeScript
-- Maitriser l'integration du Machine Learning dans une application web
-- Apprendre a gerer une base de donnees et l'authentification
-- Comprendre le deploiement d'une application SaaS
+- Approfondir mes compétences en Next.js et TypeScript
+- Maîtriser l'intégration du Machine Learning dans une application web
+- Apprendre à gérer une base de données et l'authentification
+- Comprendre le déploiement d'une application SaaS
 - Construire un projet personnel pour valoriser mon parcours
 
-### Problematique
+### Problématique
 
-Les entreprises marocaines sont confrontees a plusieurs defis :
+Les entreprises marocaines sont confrontées à plusieurs défis :
 
-| Numero | Defi | Impact |
+| Numéro | Défi | Impact |
 |--------|------|--------|
-| 1 | Donnees non exploitees | 87% des entreprises n'utilisent pas pleinement leurs donnees |
-| 2 | Manque d'outils adaptes | Les solutions BI existantes sont couteuses (2000€/mois en moyenne) |
-| 3 | Temps de traitement | 70% du temps est consacre a la preparation des donnees |
+| 1 | Données non exploitées | 87% des entreprises n'utilisent pas pleinement leurs données |
+| 2 | Manque d'outils adaptés | Les solutions BI existantes sont coûteuses (2000€/mois en moyenne) |
+| 3 | Temps de traitement | 70% du temps est consacré à la préparation des données |
 | 4 | Absence d'IA | Impossible d'anticiper les tendances futures |
-| 5 | Complexite technique | Besoin d'experts en data science |
+| 5 | Complexité technique | Besoin d'experts en data science |
 
 ### Solution
 
 **DecisionAI By Essalhi** est une plateforme SaaS de Business Intelligence qui permet de :
 
-| Numero | Fonctionnalite | Description | Statut |
+| Numéro | Fonctionnalité | Description | Statut |
 |--------|----------------|-------------|--------|
-| 1 | Parler a ses donnees | Interaction en langage naturel avec l'IA generative | Fonctionnel |
-| 2 | Anticiper les tendances | Machine Learning pour les previsions | Fonctionnel |
-| 3 | Piloter sa strategie | KPI et dashboard en temps reel | Fonctionnel |
-| 4 | Detecter les risques | Analyse predictive de la tresorerie | En amelioration |
-| 5 | Application mobile | Version mobile native | En developpement |
-| 6 | API publique | Exposition des donnees via API | En developpement |
+| 1 | Parler à ses données | Interaction en langage naturel avec l'IA générative | Fonctionnel |
+| 2 | Anticiper les tendances | Machine Learning pour les prévisions | Fonctionnel |
+| 3 | Piloter sa stratégie | KPI et dashboard en temps réel | Fonctionnel |
+| 4 | Détecter les risques | Analyse prédictive de la trésorerie | En amélioration |
+| 5 | Application mobile | Version mobile native | En développement |
+| 6 | API publique | Exposition des données via API | En développement |
 
 ---
 
 ## Pourquoi ce projet ?
 
-### Competences developpees
+### Compétences développées
 
-| Numero | Competence | Technologie | Niveau |
+| Numéro | Compétence | Technologie | Niveau |
 |--------|------------|-------------|--------|
-| 1 | Developpement Frontend | Next.js, TypeScript, Tailwind CSS | Avance |
-| 2 | Developpement Backend | Next.js API, Supabase | Avance |
-| 3 | Machine Learning | Python, Flask, XGBoost, Scikit-learn | Intermediaire |
-| 4 | Base de donnees | PostgreSQL, Supabase | Avance |
-| 5 | Authentification | JWT, Row Level Security | Avance |
-| 6 | Deploiement | Netlify, Vercel, GitHub | Avance |
-| 7 | Gestion de projet | Git, Documentation, Planification | Avance |
+| 1 | Développement Frontend | Next.js, TypeScript, Tailwind CSS | Avancé |
+| 2 | Développement Backend | Next.js API, Supabase | Avancé |
+| 3 | Machine Learning | Python, Flask, XGBoost, Scikit-learn | Intermédiaire |
+| 4 | Base de données | PostgreSQL, Supabase | Avancé |
+| 5 | Authentification | JWT, Row Level Security | Avancé |
+| 6 | Déploiement | Netlify, Vercel, GitHub | Avancé |
+| 7 | Gestion de projet | Git, Documentation, Planification | Avancé |
 
-### Objectifs de carriere
+### Objectifs de carrière
 
-| Numero | Objectif | Statut |
+| Numéro | Objectif | Statut |
 |--------|----------|--------|
-| 1 | Decrocher un stage en developpement full-stack | Realise |
-| 2 | Maitriser les technologies modernes | Realise |
-| 3 | Construire un portfolio solide | Realise |
-| 4 | Developper une solution SaaS complete | En cours |
-| 5 | Integrer une entreprise innovante | Objectif |
+| 1 | Décrocher un stage en développement full-stack | Réalisé |
+| 2 | Maîtriser les technologies modernes | Réalisé |
+| 3 | Construire un portfolio solide | Réalisé |
+| 4 | Développer une solution SaaS complète | En cours |
+| 5 | Intégrer une entreprise innovante | Objectif |
 
 ---
 
@@ -86,102 +86,102 @@ Les entreprises marocaines sont confrontees a plusieurs defis :
 
 ### 1. Architecture logicielle
 
-| Numero | Concept | Application |
+| Numéro | Concept | Application |
 |--------|---------|-------------|
-| 1 | Architecture en couches | Frontend / Backend / Base de donnees / ML |
-| 2 | API RESTful | Endpoints pour chaque fonctionnalite |
-| 3 | Securite | Authentification, RLS, JWT |
-| 4 | Modularite | Composants reutilisables |
+| 1 | Architecture en couches | Frontend / Backend / Base de données / ML |
+| 2 | API RESTful | Endpoints pour chaque fonctionnalité |
+| 3 | Sécurité | Authentification, RLS, JWT |
+| 4 | Modularité | Composants réutilisables |
 
-### 2. Technologies maitrisees
+### 2. Technologies maîtrisées
 
-| Numero | Technologie | Niveau |
+| Numéro | Technologie | Niveau |
 |--------|-------------|--------|
-| 1 | Next.js 14 (App Router) | Avance |
-| 2 | TypeScript | Avance |
-| 3 | Tailwind CSS | Avance |
-| 4 | Supabase (PostgreSQL) | Avance |
-| 5 | Python (Machine Learning) | Intermediaire |
-| 6 | Flask (API) | Intermediaire |
+| 1 | Next.js 14 (App Router) | Avancé |
+| 2 | TypeScript | Avancé |
+| 3 | Tailwind CSS | Avancé |
+| 4 | Supabase (PostgreSQL) | Avancé |
+| 5 | Python (Machine Learning) | Intermédiaire |
+| 6 | Flask (API) | Intermédiaire |
 
-### 3. Processus de developpement
+### 3. Processus de développement
 
-| Numero | Processus | Application |
+| Numéro | Processus | Application |
 |--------|-----------|-------------|
 | 1 | Planification | Cahier des charges, Architecture |
-| 2 | Developpement | Iterations, Tests |
-| 3 | Deploiement | Netlify, Vercel |
+| 2 | Développement | Itérations, Tests |
+| 3 | Déploiement | Netlify, Vercel |
 | 4 | Documentation | README, Commentaires de code |
 | 5 | Versioning | Git, GitHub |
 
 ---
 
-## Fonctionnalites Principales
+## Fonctionnalités Principales
 
 ### 1. Assistant IA Conversationnel
 
-| Numero | Fonction | Description | Statut |
+| Numéro | Fonction | Description | Statut |
 |--------|----------|-------------|--------|
-| 1 | Langage naturel | Posez des questions comme a un expert | Realise |
-| 2 | Reponses contextualisees | Basees sur vos donnees reelles | Realise |
-| 3 | Generation automatique | Rapports en quelques secondes | Realise |
-| 4 | Suggestions actives | L'IA vous propose des analyses | En amelioration |
+| 1 | Langage naturel | Posez des questions comme à un expert | Réalisé |
+| 2 | Réponses contextualisées | Basées sur vos données réelles | Réalisé |
+| 3 | Génération automatique | Rapports en quelques secondes | Réalisé |
+| 4 | Suggestions actives | L'IA vous propose des analyses | En amélioration |
 
 ---
 
-### 2. Analyses Predictives
+### 2. Analyses Prédictives
 
-| Numero | Fonction | Description | Modele ML | Statut |
+| Numéro | Fonction | Description | Modèle ML | Statut |
 |--------|----------|-------------|-----------|--------|
-| 1 | Previsions CA | Prediction du chiffre d'affaires | XGBoost | Realise |
-| 2 | Detection anomalies | Identification de transactions suspectes | Isolation Forest | Realise |
-| 3 | Recommandations | Actions pour ameliorer la performance | RandomForest | En cours |
-| 4 | Score de confiance | Fiabilite des predictions (0-100%) | Ensemble | Realise |
+| 1 | Prévisions CA | Prédiction du chiffre d'affaires | XGBoost | Réalisé |
+| 2 | Détection anomalies | Identification de transactions suspectes | Isolation Forest | Réalisé |
+| 3 | Recommandations | Actions pour améliorer la performance | RandomForest | En cours |
+| 4 | Score de confiance | Fiabilité des prédictions (0-100%) | Ensemble | Réalisé |
 
 ---
 
 ### 3. Tableau de bord
 
-| Numero | KPI | Description | Statut |
+| Numéro | KPI | Description | Statut |
 |--------|-----|-------------|--------|
-| 1 | Chiffre d'affaires | Total des ventes en temps reel | Realise |
-| 2 | Benefice net | CA - Depenses | Realise |
-| 3 | Clients uniques | Nombre de clients distincts | Realise |
-| 4 | Panier moyen | CA / Nombre de transactions | Realise |
-| 5 | Tresorerie | Solde disponible | En cours |
-| 6 | Burn rate | Depenses mensuelles | En cours |
+| 1 | Chiffre d'affaires | Total des ventes en temps réel | Réalisé |
+| 2 | Bénéfice net | CA - Dépenses | Réalisé |
+| 3 | Clients uniques | Nombre de clients distincts | Réalisé |
+| 4 | Panier moyen | CA / Nombre de transactions | Réalisé |
+| 5 | Trésorerie | Solde disponible | En cours |
+| 6 | Burn rate | Dépenses mensuelles | En cours |
 
 ---
 
-### 4. Detection des risques de tresorerie
+### 4. Détection des risques de trésorerie
 
-| Numero | Niveau | Score | Couleur | Action | Statut |
+| Numéro | Niveau | Score | Couleur | Action | Statut |
 |--------|--------|-------|---------|--------|--------|
-| 1 | Faible | > 70% | Vert | Aucune action urgente | Realise |
-| 2 | Modere | 50-70% | Jaune | Surveillance recommandee | Realise |
-| 3 | Eleve | 30-50% | Orange | Action necessaire | En cours |
-| 4 | Critique | < 30% | Rouge | Intervention immediate | En cours |
+| 1 | Faible | > 70% | Vert | Aucune action urgente | Réalisé |
+| 2 | Modéré | 50-70% | Jaune | Surveillance recommandée | Réalisé |
+| 3 | Élevé | 30-50% | Orange | Action nécessaire | En cours |
+| 4 | Critique | < 30% | Rouge | Intervention immédiate | En cours |
 
 ---
 
-### 5. Authentification securisee
+### 5. Authentification sécurisée
 
-| Numero | Fonction | Description | Statut |
+| Numéro | Fonction | Description | Statut |
 |--------|----------|-------------|--------|
-| 1 | Inscription | Creation de compte avec confirmation email | Realise |
-| 2 | Connexion | Authentification securisee | Realise |
-| 3 | Protection RLS | Row Level Security sur toutes les tables | Realise |
-| 4 | Gestion des sessions | Cookies securises et JWT | Realise |
+| 1 | Inscription | Création de compte avec confirmation email | Réalisé |
+| 2 | Connexion | Authentification sécurisée | Réalisé |
+| 3 | Protection RLS | Row Level Security sur toutes les tables | Réalisé |
+| 4 | Gestion des sessions | Cookies sécurisés et JWT | Réalisé |
 
 ---
 
-## Modele Economique
+## Modèle Économique
 
-| Numero | Offre | Prix | Utilisateurs | Fonctionnalites |
+| Numéro | Offre | Prix | Utilisateurs | Fonctionnalités |
 |--------|-------|------|--------------|-----------------|
-| 1 | Essentiel | 490 DH/mois | Jusqu'a 5 | Assistant IA, Rapports, Support email |
-| 2 | Professionnel | 990 DH/mois | Jusqu'a 25 | Analyse predictive, API, Support prioritaire |
-| 3 | Enterprise | Sur mesure | Illimite | Modeles IA personnalises, Hebergement dedie |
+| 1 | Essentiel | 490 DH/mois | Jusqu'à 5 | Assistant IA, Rapports, Support email |
+| 2 | Professionnel | 990 DH/mois | Jusqu'à 25 | Analyse prédictive, API, Support prioritaire |
+| 3 | Enterprise | Sur mesure | Illimité | Modèles IA personnalisés, Hébergement dédié |
 
 ---
 
@@ -189,21 +189,21 @@ Les entreprises marocaines sont confrontees a plusieurs defis :
 
 ### Architecture Globale
 
-| Numero | Couche | Technologie | Composants | Role |
+| Numéro | Couche | Technologie | Composants | Rôle |
 |--------|--------|-------------|------------|------|
 | 1 | Frontend | Next.js 14 | Dashboard, Chat IA, Analytics, Reports, Settings | Interface utilisateur |
-| 2 | Backend API | Next.js API Routes | Auth, Dashboard, Analytics, Reports, Forecast | Logique metier |
-| 3 | Base de donnees | Supabase (PostgreSQL) | Users, Transactions, Sales, Categories, Budgets | Stockage des donnees |
-| 4 | Machine Learning | Python / Flask | Revenue, Anomaly, Performance, Forecast | Predictions |
+| 2 | Backend API | Next.js API Routes | Auth, Dashboard, Analytics, Reports, Forecast | Logique métier |
+| 3 | Base de données | Supabase (PostgreSQL) | Users, Transactions, Sales, Categories, Budgets | Stockage des données |
+| 4 | Machine Learning | Python / Flask | Revenue, Anomaly, Performance, Forecast | Prédictions |
 
-### Flux de Donnees
+### Flux de Données
 
-| Numero | Etape | Source | Destination | Donnees |
+| Numéro | Étape | Source | Destination | Données |
 |--------|-------|--------|-------------|---------|
 | 1 | Authentification | Utilisateur | Supabase Auth | Email, Mot de passe |
-| 2 | Recuperation | Supabase | Frontend | Transactions, Ventes, Clients |
-| 3 | Analyse ML | Frontend | Serveur ML | Donnees historiques |
-| 4 | Predictions | Serveur ML | Frontend | Predictions, Anomalies |
+| 2 | Récupération | Supabase | Frontend | Transactions, Ventes, Clients |
+| 3 | Analyse ML | Frontend | Serveur ML | Données historiques |
+| 4 | Prédictions | Serveur ML | Frontend | Prédictions, Anomalies |
 | 5 | Affichage | Frontend | Utilisateur | KPI, Graphiques, Alertes |
 
 ---
@@ -212,39 +212,37 @@ Les entreprises marocaines sont confrontees a plusieurs defis :
 
 ### Frontend
 
-| Numero | Technologie | Version | Utilisation |
+| Numéro | Technologie | Version | Utilisation |
 |--------|-------------|---------|-------------|
 | 1 | Next.js | 14 | Framework React avec App Router |
 | 2 | TypeScript | 5.0 | Typage statique |
 | 3 | Tailwind CSS | 3.0 | Design system |
 | 4 | Recharts | - | Graphiques |
-| 5 | Lucide React | - | Icones |
+| 5 | Lucide React | - | Icônes |
 
 ### Backend
 
-| Numero | Technologie | Version | Utilisation |
+| Numéro | Technologie | Version | Utilisation |
 |--------|-------------|---------|-------------|
 | 1 | Next.js API | 14 | API backend |
-| 2 | Supabase | 2.0 | Base de donnees + Authentification |
+| 2 | Supabase | 2.0 | Base de données + Authentification |
 | 3 | Flask | 3.0 | Serveur Machine Learning |
 | 4 | Python | 3.10 | Machine Learning |
 
 ### Machine Learning
 
-| Numero | Bibliotheque | Utilisation |
+| Numéro | Bibliothèque | Utilisation |
 |--------|--------------|-------------|
-| 1 | XGBoost | Prediction du chiffre d'affaires |
-| 2 | Scikit-learn | Classification et regression |
-| 3 | Isolation Forest | Detection d'anomalies |
-| 4 | Pandas | Manipulation des donnees |
-| 5 | NumPy | Calculs numeriques |
+| 1 | XGBoost | Prédiction du chiffre d'affaires |
+| 2 | Scikit-learn | Classification et régression |
+| 3 | Isolation Forest | Détection d'anomalies |
+| 4 | Pandas | Manipulation des données |
+| 5 | NumPy | Calculs numériques |
 
 ### Infrastructure
 
-| Numero | Service | Utilisation |
+| Numéro | Service | Utilisation |
 |--------|---------|-------------|
-| 1 | Supabase | Base de donnees, Auth, Storage |
-| 2 | Netlify | Hebergement frontend |
+| 1 | Supabase | Base de données, Auth, Storage |
+| 2 | Netlify | Hébergement frontend |
 | 3 | GitHub | Code source |
-
----
