@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <button onclick="testGroq()">Tester Groq</button>
+    <pre id="result"></pre>
+
+    <script>
+        async function testGroq() {
+            try {
+                const response = await fetch('/api/groq', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        prompt: "Dis bonjour en français"
+                    })
+                });
+                const data = await response.json();
+                document.getElementById('result').textContent = JSON.stringify(data, null, 2);
+            } catch (error) {
+                document.getElementById('result').textContent = 'Erreur: ' + error.message;
+            }
+        }
+    </script>
+</body>
+
+</html>
